@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </div>
 
-## About
+## 📘 About
 Beauty salon website. The website template can be adapted for any other business.
 
-## Tools
+## ⚒️ Tools
 ##### Technologies
 - HTML5
 - CSS3
@@ -24,7 +24,7 @@ Beauty salon website. The website template can be adapted for any other business
 - Swiper
 - ScrollReveal
 
-## License
+## 📄 License
 This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/website-beautySalon/blob/main/LICENSE) file for more details.
 
 <hr>
